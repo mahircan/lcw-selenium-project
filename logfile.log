@@ -1,0 +1,120 @@
+2021-10-14 18:36:58,971 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-14 18:37:03,231 INFO  [Log] select_a_product() Passed! 
+2021-10-14 18:37:06,193 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-14 18:37:12,916 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 11:17:58,736 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:18:05,714 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:18:08,788 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:18:15,535 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 11:23:11,123 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:23:15,923 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:23:19,101 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:23:25,766 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 11:24:20,187 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:24:24,302 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:24:26,044 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:24:35,389 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 11:29:45,960 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:29:49,816 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:29:53,358 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:30:00,097 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 11:34:05,819 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:34:09,687 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:34:12,894 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:34:19,572 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 11:40:42,769 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:40:47,166 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:41:09,348 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:41:09,408 ERROR [Log] go_to_Cart_and_Delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f22eae34cb36b898547e51e2261aaa9
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-15 11:42:40,673 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 11:42:44,588 INFO  [Log] select_a_product() Passed! 
+2021-10-15 11:42:49,707 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 11:42:56,216 INFO  [Log] go_to_Cart_and_Delete() Passed! 
+2021-10-15 12:18:45,938 ERROR [Log] login_and_search_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"#filter\-label"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42b1bfaa853624876c14c00ca3278027
+*** Element info: {Using=id, value=filter-label} 
+2021-10-15 12:18:53,501 INFO  [Log] select_a_product() Passed! 
+2021-10-15 12:18:55,823 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 12:18:56,234 ERROR [Log] go_to_Cart_and_Delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"input[value='2']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53155}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 42b1bfaa853624876c14c00ca3278027
+*** Element info: {Using=css selector, value=input[value='2']} 
+2021-10-15 12:45:43,125 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 12:45:47,813 INFO  [Log] select_a_product() Passed! 
+2021-10-15 12:45:49,142 ERROR [Log] add_Product_to_Cart() Failed! with cause: For input string: "139,99 TL" 
+2021-10-15 12:45:49,217 ERROR [Log] go_to_Cart_and_Delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59353}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fdfaf56205234a4e45927ce3a0dd0c0f
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-15 12:56:25,878 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 12:56:29,958 INFO  [Log] select_a_product() Passed! 
+2021-10-15 12:56:31,072 ERROR [Log] add_Product_to_Cart() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"#cartLastTotal"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 164d8df873f3f2578aa64f0c3fc5f0e9
+*** Element info: {Using=id, value=cartLastTotal} 
+2021-10-15 12:56:31,124 ERROR [Log] go_to_Cart_and_Delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"a[class='oq-up plus']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54118}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 164d8df873f3f2578aa64f0c3fc5f0e9
+*** Element info: {Using=css selector, value=a[class='oq-up plus']} 
+2021-10-15 12:59:18,815 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 12:59:22,928 INFO  [Log] select_a_product() Passed! 
+2021-10-15 12:59:30,139 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 12:59:30,389 ERROR [Log] go_to_Cart_and_Delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"input[value='2']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59253}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8e8e1e9b81cf322ae48ed76697001907
+*** Element info: {Using=css selector, value=input[value='2']} 
+2021-10-15 13:00:13,085 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 13:00:17,024 INFO  [Log] select_a_product() Passed! 
+2021-10-15 13:00:22,614 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 13:00:23,136 ERROR [Log] go_to_Cart_and_Delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"input[value='2']"}
+  (Session info: chrome=94.0.4606.81)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NP7P073', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\mahir\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b10769a17ff7c051c92fd7cd320ebe6
+*** Element info: {Using=css selector, value=input[value='2']} 
+2021-10-15 13:02:59,254 INFO  [Log] login_and_search_a_product() Passed! 
+2021-10-15 13:03:03,617 INFO  [Log] select_a_product() Passed! 
+2021-10-15 13:03:09,452 INFO  [Log] add_Product_to_Cart() Passed! 
+2021-10-15 13:03:16,250 INFO  [Log] go_to_Cart_and_Delete() Passed! 
